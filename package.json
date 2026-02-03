@@ -1,0 +1,20 @@
+{
+  "name": "aigrammarchecker",
+  "version": "1.0.0",
+  "description": "AI Grammar Checker Project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "Wei Lin",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2"
+  }
+}

@@ -12,9 +12,9 @@
   "author": "Wei Lin",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^17.2.3",
-    "ejs": "^4.0.1",
-    "express": "^5.2.1",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
     "node-fetch": "^3.3.2"
   }
 }
